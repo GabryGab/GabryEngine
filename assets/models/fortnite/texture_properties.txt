@@ -1,0 +1,6 @@
+0 diffuse T_F_MED_RebirthSoldier_DefaultA_Body_D.tga.png
+0 normals T_F_MED_RebirthSoldier_DefaultA_Body_N.tga.png
+1 diffuse F_MED_Commando_Hair_01_D.tga.png
+1 normals F_MED_Commando_Hair_01_N.tga.png
+2 diffuse F_MED_Commando_Head_01_D.tga.png
+2 normals F_MED_Commando_Head_01_N.tga.png

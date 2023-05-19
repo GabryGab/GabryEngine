@@ -1,0 +1,2 @@
+fileName: flat_sphere
+fileExtension: obj

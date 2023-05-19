@@ -1,0 +1,4 @@
+0 metallic metallic.png
+0 roughness roughness.png
+0 diffuse diffuse.png
+0 normals normals.png

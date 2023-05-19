@@ -1,0 +1,4 @@
+0 metallic scuffed-plastic-metal.png
+0 roughness scuffed-plastic-rough.png
+0 diffuse scuffed-plastic-alb.png
+0 normals scuffed-plastic-normal.png
