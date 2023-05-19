@@ -25,7 +25,7 @@ bismillah inshallah alhamdulillah motore grafico marcio.
 
 ## Version support
 
-Coming Soon
+Coming Soon (never)
 
 ## Contribution or helping out
 
@@ -47,6 +47,6 @@ Who uses Linux anyway lol
 
 ## Building
 
-Coming soon
+Coming soon (never)
 
 This project/readme is work in progress, things may change over time.
