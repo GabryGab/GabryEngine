@@ -1,0 +1,184 @@
+{
+    "modelInstances": [
+        {
+            "modelName": "default_cube",
+            "position": [
+                0.0,
+                -2.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                100.0,
+                1.0,
+                100.0
+            ]
+        },
+        {
+            "modelName": "old_sponza",
+            "position": [
+                0.0,
+                0.8999999761581421,
+                50.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.014999999664723873,
+                0.014999999664723873,
+                0.014999999664723873
+            ]
+        },
+        {
+            "modelName": "cristallo",
+            "position": [
+                -30.0,
+                2.0,
+                -50.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "modelName": "dwarven_revolver",
+            "position": [
+                -6.0,
+                2.0,
+                -50.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "modelName": "plastic_sphere",
+            "position": [
+                -14.0,
+                2.0,
+                -50.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "modelName": "rusty_sphere",
+            "position": [
+                -22.0,
+                2.0,
+                -50.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "modelName": "dwarven_revolver",
+            "position": [
+                45.0,
+                2.0,
+                9.0
+            ],
+            "rotation": [
+                0.0,
+                -90.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "modelName": "rusty_sphere",
+            "position": [
+                45.0,
+                2.0,
+                1.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "modelName": "plastic_sphere",
+            "position": [
+                45.0,
+                2.0,
+                -7.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "modelName": "cristallo",
+            "position": [
+                45.0,
+                2.0,
+                -20.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        }
+    ]
+}
