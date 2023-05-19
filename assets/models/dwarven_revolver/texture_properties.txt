@@ -1,0 +1,4 @@
+0 diffuse base_albedo.jpg
+0 metallic base_metallic.jpg
+0 roughness base_roughness.jpg
+0 normals base_normal.jpg

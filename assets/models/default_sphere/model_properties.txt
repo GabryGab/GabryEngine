@@ -1,0 +1,2 @@
+fileName: default_sphere
+fileExtension: obj

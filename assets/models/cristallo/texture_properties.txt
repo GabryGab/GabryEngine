@@ -1,0 +1,4 @@
+0 metallic stone_low+_Stone_low_1_Metallic.png
+0 roughness stone_low+_Stone_low_1_Roughness.png
+0 diffuse stone_low+_Stone_low_1_Emissive.png
+0 normals stone_low+_Stone_low_1_Normal.png
