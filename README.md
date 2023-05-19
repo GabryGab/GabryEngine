@@ -49,4 +49,12 @@ Who uses Linux anyway lol
 
 Coming soon (never)
 
+## Useful keybinds
+
+F fullscreen
+ESC close application
+C toggle mouse
+WASD + CTRL + SPACE movement
+SHIFT speeeeeeeeeeeeeeeeeeeeed
+
 This project/readme is work in progress, things may change over time.
