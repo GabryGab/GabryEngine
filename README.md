@@ -43,8 +43,7 @@ Probably never
 
 ### Windows only
 
-Windows only. Who uses Linux anyway lol
-
+Who uses Linux anyway lol
 
 ## Building
 
