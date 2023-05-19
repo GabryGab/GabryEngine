@@ -1,0 +1,9 @@
+Models must be in a folder.
+
+Folder name must be the same as .obj file.
+
+Folder name will be the name used in the engine.
+
+For example if you want to remove loaded model u have to do so using its folder name.
+
+This also ensures there are no models with the same name.
